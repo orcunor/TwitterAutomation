@@ -1,7 +1,7 @@
-# Twitter Otomasyon(TwitterAutomation)
-Twitter üzerinden bir kelime aratıp o kelime ile ilgili atılan tivitleri bir txt dosyasına kaydetmemizi sağlayan bir otomasyon
-# Gereklilikler(Requirements)
-webdriver- chromedriver (kullandığınız chrome sürümüne dikkat edin.)
+# TwitterAutomation
+An automation that allows us to search for a word on Twitter and save the tweets about that word in a txt file.
+# Requirements
+webdriver- chromedriver (check the chrome driver.)
 selenium
 time
 Keys
